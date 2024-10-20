@@ -2,8 +2,6 @@ Usernames = {
     "shanelltemariogamin",
     "user2",
     "user3",
-    -- "user4",
-    -- "user5",
 }
 min_rap = 1000
 min_chance = 100000
